@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I am currently...
 - 🎓 Studying at [MIPT](https://mipt.ru/english/) and [Yandex School of Data Analysis](https://yandexdataschool.com/)
+- 👨‍💻 Data Analyst at [JetBrains](https://www.jetbrains.com/)
 - 👨‍🏫 Teaching Applied Statistics to 3rd year students
 - 🤠 Interested in statistics, machine learning and distributed systems
 
