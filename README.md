@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am currently...
 - 🎓 Studying at [MIPT](https://mipt.ru/english/)
-- 👨‍💻 Data Analyst at [JetBrains](https://www.jetbrains.com/)
+- 👨‍💻 Data Analyst and Software Developer at [JetBrains](https://www.jetbrains.com/)
 - 👨‍🏫 Teaching Applied Statistics and Machine Learning to 3rd year students
 - 🤠 Interested in statistics, machine learning and distributed systems
 
