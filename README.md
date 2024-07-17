@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I am currently...
-- 🎓 Studying at [MIPT](https://mipt.ru/english/)
-- 👨‍💻 Data Analyst and Software Developer at [JetBrains](https://www.jetbrains.com/)
-- 👨‍🏫 Teaching Applied Statistics and Machine Learning to 3rd year students
+- 🎓 Pursuing my master's degree at [MIPT](https://mipt.ru/english/)
+- 👨‍💻 Machine Learning Engineer at [JetBrains](https://www.jetbrains.com/)
 - 🤠 Interested in statistics, machine learning and distributed systems
 
 I also...
 - 🎓 Graduated from [MIPT](https://mipt.ru/english/) (2022) and [Yandex School of Data Analysis](https://yandexdataschool.com/) (2022)
-- 👨‍💻 Worked as intern in Data Analytics Team of [JetBrains](https://www.jetbrains.com/) (July - August 2021)
+- 👨‍💻 Worked as an Analyst in Data Analytics Team of [JetBrains](https://www.jetbrains.com/) (July 2021 - May 2023)
 - 👨‍🏫 Teached Computer Architecture and Operating Systems to 2nd year students (2020)
 - 👨‍💻 Worked as *SWE intern* in [Yandex.Market](https://market.yandex.ru) Search Indexing Team (July - October 2019)
 - 👨‍🎓 Graduated from *Lyceum №239* in Saint Petersburg (2018)
