@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 I am currently...
-- 🎓 Pursuing my master's degree at [MIPT](https://mipt.ru/english/)
 - 👨‍💻 Machine Learning Engineer at [JetBrains](https://www.jetbrains.com/)
 - 🤠 Interested in statistics, machine learning and distributed systems
 
 I also...
-- 🎓 Graduated from [MIPT](https://mipt.ru/english/) (2022) and [Yandex School of Data Analysis](https://yandexdataschool.com/) (2022)
+- 🎓 Graduated from [MIPT](https://mipt.ru/english/) (BSc 2022, MSc 2025) and [Yandex School of Data Analysis](https://yandexdataschool.com/) (2022, 2025)
 - 👨‍💻 Worked as an Analyst in Data Analytics Team of [JetBrains](https://www.jetbrains.com/) (July 2021 - May 2023)
 - 👨‍🏫 Teached Computer Architecture and Operating Systems to 2nd year students (2020)
 - 👨‍💻 Worked as *SWE intern* in [Yandex.Market](https://market.yandex.ru) Search Indexing Team (July - October 2019)
